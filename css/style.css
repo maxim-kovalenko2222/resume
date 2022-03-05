@@ -50,7 +50,7 @@ body {
 }
 
 .about-me-description {
-  width: 400px;
+  width: 550px;
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
@@ -200,7 +200,7 @@ body {
   margin-right: 7px;
 }
 .Contacts-section-link {
-  color: #565e6a;
+  color: #d1dae7;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
