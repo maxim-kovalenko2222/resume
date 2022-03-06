@@ -69,10 +69,14 @@ ul {
 }
 
 .about-me-description {
-  width: 550px;
+  width: 600px;
   font-weight: 700;
   font-size: 14px;
   line-height: 24px;
+  color: #595959;
+}
+
+.about-me-school-link {
   color: #595959;
 }
 
